@@ -4,8 +4,8 @@ Latihan 1
 ![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul2/blob/master/Latihan1.2.png)
 Latihan 2
 ![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul2/blob/master/Latihan2.2.png)
-Latihan 3
-![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul2/blob/master/Latihan3.2.png)
+Latihan 3 revisi
+![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul2/blob/master/Latihan3..2.png)
 Latihan 4
 ![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul2/blob/master/Latihan4..2.png)
 Latihan 5
